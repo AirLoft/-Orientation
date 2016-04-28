@@ -1,4 +1,6 @@
-<div style='text-align:center' markdown='1'>![pink](http://ac-TC2Vc5Tu.clouddn.com/b000a844b66d48d1.jpg)</div>
+## Preface
+
+![pink](http://ac-TC2Vc5Tu.clouddn.com/b000a844b66d48d1.jpg)
 
 ## Orientation
 
